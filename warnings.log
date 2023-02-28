@@ -1,0 +1,6 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 155) ms3.Parse.debussy_pour_le_piano.l095-01_pour_prelude -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 155 (timesig 3/4, act_dur 15/32) is completed by 1 incorrect duration (expected: 9/32):
+	{156: Fraction(3, 4)}
