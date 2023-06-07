@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/debussy_pour_le_piano?display_name=tag)
-![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/563840837.svg)](https://zenodo.org/badge/latestdoi/563840837)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/debussy_pour_le_piano)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,26 +12,21 @@ and serves as welcome page for both
 
 # Claude Debussy – Pour le Piano
 
+This dataset is part of the [The Claude Debussy Solo Piano Corpus](https://github.com/DCMLab/debussy_piano) which has been released together with the publication
+
+> Laneve, S., Schaerf, L., Cecchetti, G., Hentschel, J., & Rohrmeier, M. (in press). The diachronic development of Debussy’s musical style: A corpus study with Discrete Fourier Transform. Humanities and Social Sciences Communications.
 
 
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-## Naming convention
-
-The file names listed in the [Overview](#overview) below refer to the following numbering of the sonatas from 1-32.
-For example, the four movements of sonata no. 1 are named `01-1`, `01-2`, `01-3`, and `01-4`.
-
-| Number                              | Opus (Name)                       |
-|-------------------------------------|-----------------------------------|
-| Piano Sonata No.1 in F minor        | Op.2 No.1                         |
-
 ## Overview
-|file_name|measures|labels|standard| annotators      | reviewers |
-|---------|-------:|-----:|--------|-----------------|-----------|
-|01-1     |     152|   241|2.3.0   | Annotator names | AN        |
+|      file_name       |measures|labels|
+|----------------------|-------:|-----:|
+|l095-01_pour_prelude  |     163|     0|
+|l095-02_pour_sarabande|      72|     0|
+|l095-03_pour_toccata  |     266|     0|
 
 
-
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
