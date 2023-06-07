@@ -7,15 +7,18 @@
 This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
 and serves as welcome page for both 
 
-* the GitHub repo https://github.com/DCMLab/debussy_pour_le_piano and the corresponding
-* documentation page https://dcmlab.github.io/debussy_pour_le_piano
+* the GitHub repo [https://github.com/DCMLab/debussy_pour_le_piano](https://github.com/DCMLab/debussy_pour_le_piano) and the corresponding
+* documentation page [https://dcmlab.github.io/debussy_pour_le_piano](https://dcmlab.github.io/debussy_pour_le_piano)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/debussy_pour_le_piano/introduction).
 
 # Claude Debussy – Pour le Piano
 
-This dataset is part of the [The Claude Debussy Solo Piano Corpus](https://github.com/DCMLab/debussy_piano) which has been released together with the publication
+This dataset is part of [The Claude Debussy Solo Piano Corpus](https://github.com/DCMLab/debussy_piano).
 
-> Laneve, S., Schaerf, L., Cecchetti, G., Hentschel, J., & Rohrmeier, M. (in press). The diachronic development of Debussy’s musical style: A corpus study with Discrete Fourier Transform. Humanities and Social Sciences Communications.
+## Cite as
 
+> Laneve, S., Schaerf, L., Cecchetti, G., Hentschel, J., & Rohrmeier, M. (2023). The diachronic development of Debussy’s musical style: A corpus study with Discrete Fourier Transform. Humanities and Social Sciences Communications, 10(1), 289. https://doi.org/10.1057/s41599-023-01796-7
 
 ## License
 
