@@ -1,6 +1,0 @@
-Warnings encountered during the last execution of ms3 review (v1.2.9)
-=====================================================================
-
-INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 155) ms3.Parse.debussy_pour_le_piano.l095-01_pour_prelude
-	The incomplete MC 155 (timesig 3/4, act_dur 15/32) is completed by 1 incorrect duration (expected: 9/32):
-	{156: Fraction(3, 4)}
